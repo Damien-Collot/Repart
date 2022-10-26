@@ -2,7 +2,7 @@
 
 ## Répertoire git hub contenant le projet Repart en IHM
 
-La team LesBGduNord ( initialement MicroCo) vous présent son idée innovante.
+La team LesBGduNord ( initialement MicroCo) vous présent son idée moderne, pédagogique et innovante.
 
 L'équipe LesBGduNord est composée de quatres jeunes amis, mordu de musique et tourné vers l'informatique.
 L'idée est d'aider les jeunes musiciens à parfaire leur cohésion de groupe. Cet outil peut aider à tous niveau. Que ce soit pour des groupe de rock, des groupes d'élèves en conservatoire ou des orchestre, tout le monde est concerné !
